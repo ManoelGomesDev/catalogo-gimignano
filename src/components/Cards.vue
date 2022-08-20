@@ -1,6 +1,6 @@
 <template>
   <div class="card-deck">
-    <div class="card">
+    <div class="card  shadow p-3 bg-white rounded" >
       <img class="card-img-top " :src="require(`@/assets/${product.img}`)" />
       <div class="card-body">
         <h3 class="card-title">{{ product.name }}</h3>

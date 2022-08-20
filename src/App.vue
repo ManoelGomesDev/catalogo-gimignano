@@ -4,7 +4,8 @@
     <div class="row">
     <div class="col-sm-12 col-md-12 m-4" align="center">
       <img alt=" logo" class="logo" src="./assets/logoGmig.svg" />
-      <h1>Nossa Coleção</h1>
+      <h2>NOSSA COLEÇÃO</h2>
+       <i class="bi bi-whatsapp" style="font-size: 3rem;"></i>
 </div>
     </div>
     </div>
